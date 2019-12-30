@@ -1,0 +1,12 @@
+:root{
+  font-size: calc(0.75vw + 8px);
+  font-family: "微软雅黑";
+}
+
+h1{
+  text-transform: uppercase;
+}
+
+input{
+  font-size: 1rem;
+}
